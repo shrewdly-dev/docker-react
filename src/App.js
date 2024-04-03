@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-         Deploy Process Sucks
+         Deploy Process 
         </p>
         <a
           className="App-link"
